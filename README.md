@@ -66,10 +66,7 @@ The dataset used contains various health parameters such as:
    - Compare accuracy metrics.
 
 ### Running the Gradio Web App
-1. Start the Gradio interface:
-   ```bash
-   python heart_disease_prediction.py
-   ```
+1. Start the Gradio interface
 2. Enter health parameters in the UI.
 3. Receive an instant prediction on the likelihood of heart disease.
 
